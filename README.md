@@ -26,6 +26,7 @@ Starring this repository helps more students and educators discover these free r
 ### Collaboration & Productivity
 - [Miro](https://miro.com/education-whiteboard/)
 - [Loom](https://www.loom.com/education)
+- [Microsoft 365](https://www.microsoft.com/en-us/education/students)
 
 ### Domains & Hosting
 - [Namecheap](https://nc.me/)
